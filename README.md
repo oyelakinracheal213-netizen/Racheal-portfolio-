@@ -35,7 +35,7 @@ COUNTIFS
 MAXIFS
 
 ## Tasks Completed 
-!(a0dH0eaWTmCfbressNyv_1st Assignment (2) (1)(2).xlsx)
+![Dashboard Screenshot] (Screenshot.png)
 
 ### Data Formatting
 - Formatted table headers
