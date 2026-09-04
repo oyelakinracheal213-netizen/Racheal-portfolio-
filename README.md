@@ -35,7 +35,7 @@ COUNTIFS
 MAXIFS
 
 ## Tasks Completed 
-![Dashboard Screenshot](Screenshot224258.png)
+![Dashboard Screenshot](https://github.com/oyelakinracheal213-netizen/Racheal-portfolio-/commit/68d2942292d35ec6ec29f8eef97a309a3a286fe8)
 
 ### Data Formatting
 - Formatted table headers
