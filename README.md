@@ -35,7 +35,7 @@ COUNTIFS
 MAXIFS
 
 ## Tasks Completed 
-![Dashboard Screenshot]
+![Dashboard Screenshot](Screenshot 2026-09-04 224258.png)
 
 ### Data Formatting
 - Formatted table headers
