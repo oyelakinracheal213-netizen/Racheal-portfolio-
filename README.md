@@ -123,6 +123,10 @@ Lagos recorded the highest cost (COGS)
 Laptop A13 drove the highest profit  
 ![Dashboard Screenshot](https://github.com/oyelakinracheal213-netizen/Racheal-portfolio-/commit/d7b24e2319119833a733c3dfb1941113ee6d492a)
 
+
+
+
+
 ## Power BI Sales Performance Dashboard
 ## Project Summary
 This project delivers a complete Sales Performance BI report built in Power BI—from raw data to an interactive, insight-driven dashboard. I used Power Query to clean and standardize the data, designed a star-schema data model (fact + dimension tables), created KPI measures in DAX, and built a multi-page report that enables stakeholders to monitor revenue performance, identify top drivers, and explore customer and product trends using slicers.
@@ -200,6 +204,10 @@ Identified top revenue contributors by region, category, and product
 Highlighted customer concentration through a ranked view of top customers  
 Included return-awareness by incorporating return rate and return logic into KPIs  
 Improved trust in reporting through a documented data quality and transformation process
+![Dashboard Screenshot](https://github.com/oyelakinracheal213-netizen/Racheal-portfolio-/commit/81ac98192cea1b82e11e983bd2f24dc4501627cd)
+
+
+
 
 
 ## Business Analytics Dashboard (Power BI) — TS Academy Final Project
