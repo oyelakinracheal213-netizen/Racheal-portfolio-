@@ -121,7 +121,7 @@ May was the lowest-performing month (customers)
 Peter generated the highest revenue  
 Lagos recorded the highest cost (COGS)  
 Laptop A13 drove the highest profit  
-
+![Dashboard Screenshot](https://github.com/oyelakinracheal213-netizen/Racheal-portfolio-/commit/d7b24e2319119833a733c3dfb1941113ee6d492a)
 
 ## Power BI Sales Performance Dashboard
 ## Project Summary
