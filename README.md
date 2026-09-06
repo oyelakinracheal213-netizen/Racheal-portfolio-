@@ -63,6 +63,8 @@ This project strengthened my foundation in Excel and gave me practical experienc
 
 
 
+
+
 ## Sales Performance Dashboard (Excel)
 ## Project Overview
 This project is an end-to-end Sales Analysis built in Microsoft Excel. I started by cleaning and transforming the raw dataset using Power Query, then used PivotTables, PivotCharts, and slicers to create an interactive dashboard that summarizes performance across products, sales reps, cities, and months. The final dashboard helps stakeholders track results quickly and make data-driven decisions.
@@ -120,7 +122,9 @@ Category
 May was the lowest-performing month (customers)  
 Peter generated the highest revenue  
 Lagos recorded the highest cost (COGS)  
-Laptop A13 drove the highest profit  
+Laptop A13 drove the highest profit
+
+## Tasks Completed 
 ![Dashboard Screenshot](https://github.com/oyelakinracheal213-netizen/Racheal-portfolio-/commit/d7b24e2319119833a733c3dfb1941113ee6d492a)
 
 
@@ -204,7 +208,10 @@ Identified top revenue contributors by region, category, and product
 Highlighted customer concentration through a ranked view of top customers  
 Included return-awareness by incorporating return rate and return logic into KPIs  
 Improved trust in reporting through a documented data quality and transformation process
+
+## Tasks Completed 
 ![Dashboard Screenshot](https://github.com/oyelakinracheal213-netizen/Racheal-portfolio-/commit/81ac98192cea1b82e11e983bd2f24dc4501627cd)
+
 
 
 
@@ -272,4 +279,7 @@ End-to-end BI workflow: ETL → Modeling → DAX → Dashboard design
 Ability to structure datasets into a model that supports scalable reporting
 Creation of KPIs that summarize performance clearly for stakeholders
 Building interactive visuals that allow users to drill into brand and regional performance
+
+## Tasks Completed 
+![Dashboard Screenshot](https://github.com/oyelakinracheal213-netizen/Racheal-portfolio-/commit/33b87fef83e6ce22de39772ebe4fc4a900d44e22)
 
